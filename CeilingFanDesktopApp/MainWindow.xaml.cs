@@ -34,12 +34,6 @@ namespace CeilingFanDesktopApp
         private IUnitOfWork uow;
 
         private string imageFanSource = "pack://siteoforigin:,,,/images/fan-forward.gif";
-
-
-        //public string bitmapCord = new BitmapImage(new Uri(@"pack://siteoforigin:,,,/images/fan-forward.gif"));
-        public string bitmapCord = @"pack://siteoforigin:,,,/images/cord.png";
-        public string bitmapPullCord = @"pack://siteoforigin:,,,/images/cordHandle.png";
-        private string bitmapEmpty = null;//new BitmapImage(new Uri(@"fds"));
         #endregion
 
         #region [Properties]
