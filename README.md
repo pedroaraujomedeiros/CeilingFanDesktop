@@ -10,7 +10,7 @@ It is an app that contains a ceiling fan with 2 pull cords:
 
 ## Software Development Concepts Applied
   * C# / WPF
-  * .NET 5 (lastest .NET version)
+  * **.NET 5 (lastest .NET version)**
   * Dependency Injection
   * N-Tier layer
     * UI (Presentation) Layer
