@@ -18,7 +18,7 @@ It is an app that contains a ceiling fan with 2 pull cords:
     * Domain Layer
 
 ## How to compile and run
-  * To compile and run, you need to have Visual Studio and .NET 5 sdk insalled on your machine.
+  * To compile and run, you need to have Visual Studio and **.NET 5 sdk** insalled on your machine.
   * Follow the steps below:
     1. Clone this repository on your machine;
     2. Open the solution (.sln file) in Visual Studio;
