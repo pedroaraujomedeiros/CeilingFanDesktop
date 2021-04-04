@@ -5,7 +5,7 @@ It is an app that contains a ceiling fan with 2 pull cords:
 
 **[Executable Link - Download](https://www.dropbox.com/s/xr9f07zg1rhtlux/CeilingFanDesktopApp.zip?dl=0)**
 
-### A web version is available at [Link](https://ceilingfan.azurewebsites.net) 
+### A live web version is available at [Link](https://ceilingfan.azurewebsites.net) 
 [Web Version GitHub Link](https://github.com/pedroaraujomedeiros/CeilingFanWeb)
 
 ## Software Development Concepts Applied
